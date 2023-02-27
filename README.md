@@ -5,7 +5,7 @@ Core course in the Master in Interdisciplinary Data Science (MIDS) program at Du
 
 
 
-Assignment 1: Probability, Linear Algebra, & Computational Programming
+### Assignment 1: Probability, Linear Algebra, & Computational Programming
 
 Assignment 2: Supervised Machine Learning Fundamentals
 
