@@ -15,4 +15,4 @@ Core course in the Master in Interdisciplinary Data Science (MIDS) program at Du
 
 ### Assignment 5: Kaggle Competition and Unsupervised Learning
 
-### Assignment 6.: Reinforcement learning
+### Assignment 6: Reinforcement learning
