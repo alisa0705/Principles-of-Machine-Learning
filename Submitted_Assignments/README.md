@@ -10,4 +10,4 @@ My submitted assignments are uploaded here.
 
 ### Assignment 5: Kaggle Competition and Unsupervised Learning
 
-### Assignment 6.: Reinforcement learning
+### Assignment 6: Reinforcement learning
